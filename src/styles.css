@@ -100,6 +100,7 @@ header {
 .main-burger img {
   object-fit: contain;
 }
+
 nav {
     display: flex;
     margin-top: -0.5em;
@@ -112,4 +113,10 @@ nav button {
     border: none;
     background-color: #00000000;
     font-size: 1.3rem;
+}
+
+.highlight {
+  border: solid #443627 0.08em;
+  padding: 0em 0.4em;
+  font-size: x-large;
 }
