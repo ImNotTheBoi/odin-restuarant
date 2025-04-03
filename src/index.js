@@ -29,8 +29,4 @@ function highlightButton(button){
     button.classList.toggle("highlight")
 }
 
-function deleteContent() {
-    
-}
-
 loadButtons()
