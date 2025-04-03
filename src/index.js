@@ -30,3 +30,5 @@ function highlightButton(button){
 }
 
 loadButtons()
+loadFunctions[1]()
+highlightButton(pageButtons[1])
